@@ -217,7 +217,7 @@ include("admin/config/db.php");
                             <div class="col-xl-3 col-lg-5">
                                 <div class="hero-content">
                                     <h4 data-animation="fadeInUp" data-delay=".4s">
-                                        Welcome to
+                                        Welcomessss to
                                     </h4>
                                     <h1 data-animation="fadeInUp" data-delay=".4s" style="text-transform: capitalize;">
                                         Vetri Velan Kaappi
